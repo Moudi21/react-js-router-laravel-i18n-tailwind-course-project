@@ -1,7 +1,6 @@
 import React, {useState, useEffect, useRef} from 'react';
 import {useTranslation} from 'react-i18next';
 import LanguageSelector from './LanguageSelector';
-import {Link} from 'react-router';
 import LinkTo from './LinkTo';
 import BtnTheme from './BtnTheme';
 
@@ -144,9 +143,9 @@ const TopNav = () => {
         </div>
 
         {/* Right side - Phone Number and Language Selector */}
-        <div className="flex items-center space-x-4">
+        <div className="flex items-center space-x-2">
           {/* Phone Number */}
-          <div className="flex items-center space-x-2">
+          <div className="flex items-center space-x-1">
             <svg
               className="w-4 h-4 text-app-color"
               fill="none"
