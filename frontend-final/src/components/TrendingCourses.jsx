@@ -64,7 +64,7 @@ const TrendingCourses = () => {
   };
 
   return (
-    <section className="my-15 p-4 px-12 custom-container">
+    <section className="my-15 p-4 lg:px-12 custom-container">
       <h1 className="mb-2 font-semibold text-gray-700 dark:text-gray-200 text-3xl">
         Trending Courses Across Diverse Fields
       </h1>
