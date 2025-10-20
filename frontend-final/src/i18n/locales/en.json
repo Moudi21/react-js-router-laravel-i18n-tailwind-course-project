@@ -1,0 +1,405 @@
+{
+  "AR": "Arabic",
+  "EN": "English",
+  "welcome": "Welcome",
+  "dark": "Dark",
+  "light": "Light",
+  "home": "Home",
+  "courses": "Courses",
+  "faqs": "FAQs",
+  "term": "terms",
+  "language": "Language",
+  "arabic": "Arabic",
+  "phone": "Phone Number",
+  "email": "Email",
+  "password": "Password",
+  "name": "Name",
+  "fullname": "FullName",
+  "confirmPassword": "Confirm Password",
+  "username": "Username or Email",
+  "users": "Users",
+  "dashboard": "Dashboard",
+  "login": "Login",
+  "register": "Register",
+  "search": "Search",
+  "more": "More",
+  "menu": "Menu",
+  "settings": "Settings",
+  "info": "information",
+  "categories": {
+    "title": "Categories",
+    "noSubcategories": "No subcategories available for \"{{category}}\" yet."
+  },
+  "number": "Number",
+  "location": "Location",
+  "address": "Address",
+  "city": "City",
+  "country": "Country",
+  "loading": "Logging in...",
+  "show password": "Show Password",
+  "already have an account?": "Already have an account?",
+  "create an account": "Create an account",
+  "forgot password?": "Forgot Password?",
+  "sing up for free": "Join For Free",
+  "don't have an account?": "Don't have an account?",
+  "welcome back": "Welcome back",
+  "login text": "Expert-Led Courses That Equip You with Practical, Career-Boosting Skills.",
+  "search title": "What would you like to learn?",
+  "hero title": "Boost Your Career with Industry-Recognized Skills",
+  "hero desc": "Flexible, affordable courses designed to help you achieve your goals, whether you're at home, on the go, or anywhere in between.",
+  "master_skills": "Master Your Skills with",
+  "expert_led_courses": "Expert-Led Courses",
+  "heroDescriptions": "Join thousands of students who have transformed their careers with our comprehensive IT, Computer Science, and Web Development courses. Learn from industry experts and get certified in the most in-demand technologies.",
+  "join_with_us": "Join with us",
+  "start_certification": "Start Your Certification",
+  "browse_all_courses": "Browse All Courses",
+  "categories_title": "Course categories carousel",
+  "categoryManager": "Category Manager",
+  "addCategory": "Add Category",
+  "editCategory": "Edit Category",
+  "parentCategory": "Parent Category",
+  "noneTopLevel": "— None (Top Level) —",
+  "mediaPath": "Media Path (icon class or image URL)",
+  "add": "Add",
+  "update": "Update",
+  "cancel": "Cancel",
+  "media": "Media",
+  "category": "Category",
+  "parent": "Parent",
+  "actions": "Actions",
+  "enterCategoryName": "Enter category name",
+  "enterIconOrUrl": "Enter icon class or image URL",
+  "selectCategory": "Select a parent category",
+  "confirmDeleteCategory": "Are you sure you want to delete this category?",
+  "fetchCategoriesError": "Failed to load categories.",
+  "saveCategoryError": "Failed to save category.",
+  "deleteCategoryError": "Failed to delete category.",
+  "validation": {
+    "required": "This field is required."
+  },
+  "pageDataManager": "Page Data Management",
+  "addPageData": "Add Page Data",
+  "editPageData": "Edit Page Data",
+  "pageDataList": "Page Data List",
+  "active": "Active",
+  "yes": "Yes",
+  "no": "No",
+  "noData": "No data available.",
+  "enterName": "Enter name",
+  "enterLink": "Enter link",
+  "enterType": "Enter type",
+  "enterDescription": "Enter description",
+  "fetchError": "Failed to load data.",
+  "saveError": "Failed to save data.",
+  "deleteError": "Failed to delete data.",
+  "description": "Description",
+  "noCategories": "No categories found.",
+  "searchByNameOrLink": "Search by name or link",
+  "allTypes": "All Types",
+  "brands": {
+    "title": "Explore Trusted Learning Platforms",
+    "description": "Learn with the world's top educational platforms — certified and industry approved.",
+    "noBrands": "No brands available",
+    "logoAlt": "{{name}} logo",
+    "linkAria": "Visit {{name}} homepage"
+  },
+  "contact": {
+    "us": "Contact Us",
+    "title": "Get in Touch",
+    "description": "We'd love to hear from you. Whether you have a question about our courses, pricing, or anything else, our team is ready to answer all your questions.",
+    "phone": {
+      "title": "Phone",
+      "description": "Our team is available from 9am to 5pm, Monday to Friday."
+    },
+    "email": {
+      "title": "Email",
+      "description": "We aim to respond to all emails within 24 hours."
+    },
+    "location": {
+      "title": "Location",
+      "address": "123 Tech Avenue, Suite 100, Silicon Valley, CA 94105"
+    },
+    "map": {
+      "title": "Our location on map"
+    },
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "subject": "Subject",
+      "subjectPlaceholder": "Enter the subject",
+      "message": "Message",
+      "messagePlaceholder": "Enter your message here...",
+      "button": "Send Message",
+      "success": "Thanks — your message has been sent. We will get back to you shortly."
+    }
+  },
+  "searchCourses": {
+    "placeholder": "Search title, provider, category, platform...",
+    "submit": "Search",
+    "noResults": "No results found for \"{{query}}\"",
+    "loading": "Loading results...",
+    "free": "Free",
+    "unknown": "Unknown",
+    "ariaLabel": "Search courses",
+    "fetchError": "Unable to fetch courses. Please try again.",
+    "startTyping": "Start typing to search courses"
+  },
+  "confirmDelete": "Are you sure you want to delete this category (and its subcategories)?",
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions about our courses, admissions process, and technical support.",
+    "expand": "Expand answer",
+    "collapse": "Collapse answer",
+    "groups": {
+      "courses": {
+        "title": "Courses",
+        "q1": "What programming languages are taught?",
+        "a1": "We cover a wide range of popular and in‑demand languages including Python, JavaScript, Java, C++, and SQL. Our curriculum is constantly updated to reflect industry trends.",
+        "q2": "Are the courses beginner-friendly?",
+        "a2": "Absolutely! We have courses designed for all levels, from complete beginners with no prior coding experience to advanced developers looking to specialize in new technologies."
+      },
+      "admissions": {
+        "title": "Admissions",
+        "q1": "What are the prerequisites for enrolling?",
+        "a1": "For most of our introductory courses, the only prerequisite is a strong desire to learn. Advanced courses list specific prerequisites on the course page.",
+        "q2": "Is there a deadline to apply?",
+        "a2": "Most courses have rolling admissions and can be started anytime. Some cohort-based programs have deadlines which are clearly communicated on their pages."
+      },
+      "technical": {
+        "title": "Technical Support",
+        "q1": "What kind of technical support is available?",
+        "a1": "We provide 24/7 technical support via our portal, instructor office hours, community forums, and optional one‑to‑one mentorship depending on plan.",
+        "q2": "What are the system requirements for the courses?",
+        "a2": "A computer with a reliable internet connection and a modern browser. Any specific tools are generally free and described in course setup guides."
+      }
+    },
+    "contact": {
+      "title": "Still have questions?",
+      "description": "Our team is here to help. Get in touch with us for any further inquiries.",
+      "button": "Contact Us"
+    }
+  },
+  "terms": {
+    "title": "Terms and Conditions",
+    "lastUpdated": "Last updated: October 26, 2023",
+    "readCarefully": "Please read these terms and conditions carefully before using Our Service.",
+    "toc": {
+      "title": "Table of Contents"
+    },
+    "sections": {
+      "introduction": {
+        "title": "1. Introduction",
+        "content": "Welcome to EduPlatform! These Terms and Conditions govern your use of our website and services. By accessing or using our platform, you agree to be bound by these terms. Our services provide access to a comprehensive suite of courses in IT, Computer Science, and Web Development."
+      },
+      "accounts": {
+        "title": "2. User Accounts",
+        "content": "To access most features of the platform, you must register for an account. You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account. You agree to provide accurate and complete information and to keep this information up to date."
+      },
+      "content": {
+        "title": "3. Content and Conduct",
+        "content": "All content provided on EduPlatform, including courses, text, and videos, is the property of EduPlatform or its content suppliers. You may not distribute, modify, or reproduce any content without our prior written permission. You agree to use the platform for lawful purposes only and not to engage in any conduct that is disruptive or harmful to others."
+      },
+      "payments": {
+        "title": "4. Payments and Refunds",
+        "content": "Certain services are available for a fee. You agree to pay all applicable fees for the courses you purchase. All fees are non-refundable, except as required by law or as explicitly stated in our Refund Policy. We may use third-party payment processors to handle payments."
+      },
+      "termination": {
+        "title": "5. Termination",
+        "content": "We may terminate or suspend your account and access to the services immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms. Upon termination, your right to use the service will cease immediately."
+      },
+      "disclaimer": {
+        "title": "6. Disclaimer of Warranties",
+        "content": "The service is provided on an AS IS and AS AVAILABLE basis. We make no representations or warranties of any kind, express or implied, as to the operation of our services, or the information, content, or materials included therein. You expressly agree that your use of the service is at your sole risk."
+      },
+      "limitation": {
+        "title": "7. Limitation of Liability",
+        "content": "In no event shall EduPlatform, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the service."
+      }
+    }
+  },
+  "about": {
+    "link": "About",
+    "hero": {
+      "title": "Join thousands of students who have transformed their careers",
+      "description": "Our mission is to provide accessible and high-quality tech education to help you achieve your career goals. Learn from the best and get certified in the most sought-after technologies in IT, Computer Science, and Web Development.",
+      "exploreCourses": "Explore Courses",
+      "getStarted": "Get Started"
+    },
+    "section1": {
+      "title": "Learn from industry experts",
+      "description": "Our instructors are seasoned professionals with years of real-world experience, bringing practical insights and knowledge to every course. They're passionate about teaching and dedicated to your success.",
+      "imageAlt": "A diverse group of students collaborating in a modern classroom setting."
+    },
+    "section2": {
+      "title": "Get certified in the most in-demand technologies",
+      "description": "Our certifications are recognized by top companies and cover the latest technologies, giving you a competitive edge in the job market. From full-stack development to data science, we have you covered.",
+      "imageAlt": "A person proudly holding a certificate of completion."
+    },
+    "cta": {
+      "title": "Ready to start your journey?",
+      "description": "Sign up today and take the first step towards a rewarding career in tech.",
+      "button": "Create Your Account"
+    }
+  },
+  "footer": {
+    "courses": {
+      "title": "Popular Courses",
+      "python": "Python for Data Science",
+      "marketing": "Digital Marketing Masterclass",
+      "pmp": "Project Management Professional (PMP)",
+      "design": "Graphic Design for Beginners",
+      "webdev": "Full-Stack Web Development",
+      "excel": "Advanced Excel Techniques",
+      "powerbi": "Microsoft Power BI Data Analyst",
+      "ux": "Google UX Design Certificate",
+      "all": "All Courses"
+    },
+    "categories": {
+      "title": "Popular Categories",
+      "tech": "Technology",
+      "software": "IT & Software",
+      "design": "Art & Design",
+      "marketing": "Marketing",
+      "health": "Health & Fitness",
+      "development": "Personal Development",
+      "math": "Math & Logic",
+      "language": "Language Learning",
+      "all": "All Categories"
+    },
+    "company": {
+      "title": "About Company",
+      "about": "About us",
+      "offer": "What We Offer",
+      "careers": "Careers",
+      "leadership": "Leadership",
+      "enterprise": "For Enterprise",
+      "partner": "Become a Partner",
+      "press": "Press & Media",
+      "contact": "Contact Us",
+      "catalog": "Catalog",
+      "support": "Help & Support"
+    },
+    "community": {
+      "title": "Community",
+      "instructors": "Instructor Community",
+      "stories": "Learner Stories",
+      "forums": "Forums & Discussions",
+      "events": "Events & Webinars",
+      "partnerships": "Partnerships",
+      "affiliate": "Affiliate Program"
+    },
+    "copyright": "Pro UI/UX Learning",
+    "rights": "All rights reserved"
+  },
+  "deals": {
+    "title": "Limited Time Deals on Top Courses!",
+    "description": "Special prices on selected courses for a limited period. Countdown to savings starts now!",
+    "endsIn": "Ends in:",
+    "exploreButton": "Explore All Deals",
+    "courses": {
+      "python": {
+        "title": "Introduction to Python",
+        "category": "Programming",
+        "price": "$49.99",
+        "originalPrice": "$99.99",
+        "rating": "4.8",
+        "students": "12.5k students",
+        "alt": "A person coding on a laptop, representing a Python course."
+      },
+      "uiux": {
+        "title": "UI/UX Design Masterclass",
+        "category": "Design",
+        "price": "$79.99",
+        "originalPrice": "$149.99",
+        "rating": "4.9",
+        "students": "21k students",
+        "alt": "A wireframe sketch on a notepad, signifying a UI/UX design course."
+      },
+      "react": {
+        "title": "React & Next.js Complete Guide",
+        "category": "Web Development",
+        "price": "$69.99",
+        "originalPrice": "$129.99",
+        "rating": "4.7",
+        "students": "18.3k students",
+        "alt": "React code editor with modern web development tools"
+      },
+      "datascience": {
+        "title": "Data Science Bootcamp",
+        "category": "Data Science",
+        "price": "$89.99",
+        "originalPrice": "$179.99",
+        "rating": "4.9",
+        "students": "15.7k students",
+        "alt": "Data visualization charts and graphs"
+      }
+    }
+  },
+  "offer": {
+    "title": "Limited-Time Offer: Up to 70% Off!",
+    "description": "Take advantage of our biggest sale of the year. Learn new skills and boost your career with our expert-led courses.",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "button": "Explore All Deals",
+    "courses": {
+      "webdev": {
+        "category": "Web Development",
+        "title": "The Complete Web Development Bootcamp",
+        "rating": "4.8",
+        "students": "120,000+ Students",
+        "price": "$29.99",
+        "originalPrice": "$199.99",
+        "alt": "A person coding on a laptop with lines of code visible."
+      },
+      "marketing": {
+        "category": "Marketing",
+        "title": "Digital Marketing Masterclass",
+        "rating": "4.7",
+        "students": "95,000+ Students",
+        "price": "$24.99",
+        "originalPrice": "$149.99",
+        "alt": "A digital marketing campaign concept with icons and charts."
+      },
+      "react": {
+        "category": "React Development",
+        "title": "Advanced React & Next.js Pro",
+        "rating": "4.9",
+        "students": "85,000+ Students",
+        "price": "$34.99",
+        "originalPrice": "$179.99",
+        "alt": "React development environment with modern tools"
+      },
+      "datascience": {
+        "category": "Data Science",
+        "title": "Data Science & Machine Learning",
+        "rating": "4.8",
+        "students": "78,000+ Students",
+        "price": "$39.99",
+        "originalPrice": "$189.99",
+        "alt": "Data visualization and machine learning concepts"
+      },
+      "python": {
+        "category": "Python Programming",
+        "title": "Python for Beginners to Advanced",
+        "rating": "4.7",
+        "students": "150,000+ Students",
+        "price": "$19.99",
+        "originalPrice": "$129.99",
+        "alt": "Python programming code on a screen"
+      },
+      "uiux": {
+        "category": "UI/UX Design",
+        "title": "UI/UX Design Professional Course",
+        "rating": "4.9",
+        "students": "65,000+ Students",
+        "price": "$27.99",
+        "originalPrice": "$159.99",
+        "alt": "UI/UX design tools and wireframes"
+      }
+    }
+  }
+}
